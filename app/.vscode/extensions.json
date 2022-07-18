@@ -1,4 +1,8 @@
 {
-  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
-  "recommendations": ["angular.ng-template"]
+    "recommendations": [
+        "bradlc.vscode-tailwindcss",
+        "hwencc.html-tag-wrapper",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag"
+    ]
 }
